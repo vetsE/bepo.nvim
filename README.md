@@ -1,4 +1,4 @@
-<img align="left" width="150" height="85" src="./assets/bepo.png?raw=true">
+<img align="left" width="150" height="130" src="./assets/bepo.png?raw=true">
 
 # bepo.nvim
 
