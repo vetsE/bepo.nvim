@@ -41,6 +41,10 @@ local function setup()
     remap({ "n" }, "zt", "zj")
     remap({ "n" }, "zs", "zk")
 
+    remap({ "n" }, "yh", "yt");
+    remap({ "n" }, "dh", "dt");
+    remap({ "n" }, "lh", "ct");
+
     remap({ "n", "v" }, "«", "<<")
     remap({ "n", "v" }, "»", ">>")
 
