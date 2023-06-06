@@ -67,6 +67,7 @@ local function nvim_surround()
             visual_line = "gÇ",
             delete = "dç",
             change = "lç",
+			change_line = "lÇ",
         },
     }
 end
